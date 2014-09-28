@@ -1,0 +1,12 @@
+django-interval-field
+-----
+
+Provides an Interval Field for Django with associated form field, model field,
+and widget. The model field uses the interval data type in postgres in a
+postgres database, otherwise it uses a char field.
+
+This project is currently in beta. Needed:
+
+- tests
+- documentation
+- other?
